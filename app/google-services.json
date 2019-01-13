@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813245701938",
+    "firebase_url": "https://ubps-ea398.firebaseio.com",
+    "project_id": "ubps-ea398",
+    "storage_bucket": "ubps-ea398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813245701938:android:ed1d6a5de0bdcf39",
+        "android_client_info": {
+          "package_name": "valdircamargo.com.br.ubp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813245701938-d0mnok6gmbhd312np5tlme8edu6q1e98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "valdircamargo.com.br.ubp",
+            "certificate_hash": "9265d790f343d766701b4c5e5f29c32223bab416"
+          }
+        },
+        {
+          "client_id": "813245701938-9gk51l407cbc7fd03k6d109cu4kr17u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvkkz5B1qA_8YmguS69A6RoSl6co6qpfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813245701938-9gk51l407cbc7fd03k6d109cu4kr17u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
