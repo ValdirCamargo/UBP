@@ -74,6 +74,6 @@ public class MainActivity extends AppCompatActivity {
         dialog.setView(register_layout);
 
         //Set Button
-
+        // hi testing commit
     }
 }
